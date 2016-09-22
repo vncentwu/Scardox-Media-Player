@@ -14,7 +14,7 @@ import android.widget.Switch;
 
 public class SettingsActivity extends AppCompatActivity {
 
-    static boolean loopSongList = false;
+    static boolean loopSongList = true;
     static boolean loopCurrentSong = false;
     static int volume = 100;
     AudioManager am;
