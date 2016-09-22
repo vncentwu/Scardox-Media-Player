@@ -71,7 +71,10 @@ public class MainActivity extends AppCompatActivity {
                     if(xd != null)
                         xd.setBackgroundResource(R.color.transparent);
                 }
-                parent.getChildAt(position).setBackgroundResource(R.color.red);
+                View tempView = parent.getChildAt(position);
+                if(tempView !=null)
+                    tempView.setBackgroundResource(R.color.red);
+
                 currentPosition = position;
                 updateSongText();
                 playCurrentSong();
