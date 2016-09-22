@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="song_names">
+        <item>Breathless</item>
+        <item>Clean Bandit</item>
+        <item>Code Lyoko Theme Song</item>
+        <item>N085</item>
+        <item>Always on the Run</item>
+        <item>Glorious Morning 2</item>
+        <item>Little Do You Know</item>
+        <item>On and On</item>
+        <item>Pendulum, Zed</item>
+        <item>Seven Years</item>
+        <item>Unity</item>
+        <item>Unravel</item>
+    </string-array>
+</resources>
