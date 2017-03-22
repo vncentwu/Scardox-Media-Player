@@ -1,7 +1,1 @@
-1. Vincent Wu
-2. vncentwu@gmail.com	
-3. 6 hours
-4. No slip days
-5. Comments: I did two extra credit portions.
-	1: Volume
-	2. Highlight currently played song. This is a rough attempt and you can try to break it if you'd like.
+An android application that plays music, with features including song loop, playlist loop, and time skipping. At the moment, songs are saved locally. See screenshot in repo for preview of app.
